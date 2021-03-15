@@ -33,7 +33,7 @@
     },
     "dependencies": {
         "isomorphic-unfetch": "3.1.0",
-        "lodash": "4.17.20"
+        "lodash": "4.17.21"
     },
     "devDependencies": {
         "@arkweid/lefthook": "0.7.2",
