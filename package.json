@@ -73,7 +73,7 @@
         "remark-validate-links": "10.0.2",
         "rimraf": "3.0.2",
         "semantic-release": "17.3.9",
-        "slugify": "1.4.6",
+        "slugify": "1.4.7",
         "ts-jest": "26.5.1",
         "ts-node": "9.1.1",
         "tsdx": "0.14.1",
