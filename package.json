@@ -63,7 +63,7 @@
         "eslint-plugin-jest": "^23.20.0",
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-prettier": "^3.1.4",
-        "eslint-plugin-spellcheck": "0.0.8",
+        "eslint-plugin-spellcheck": "0.0.17",
         "folio": "^0.3.18",
         "gradient-string": "^1.2.0",
         "license-badger": "^0.18.0",
