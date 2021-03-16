@@ -74,7 +74,7 @@
         "typedoc": "^0.20.28",
         "jest": "^26.6.3",
         "jest-circus": "^26.6.3",
-        "jsdom": "16.4.0",
+        "jsdom": "16.5.1",
         "jsdom-global": "3.0.2",
         "markdown-link-check": "^3.8.6",
         "object-hash": "^2.1.1",
