@@ -79,7 +79,7 @@
         "markdown-link-check": "^3.8.6",
         "object-hash": "^2.1.1",
         "prettier": "^2.1.2",
-        "randomcolor": "^0.5.4",
+        "randomcolor": "^0.6.2",
         "rimraf": "^3.0.2",
         "semantic-release": ">=17.2.3",
         "slugify": "^1.4.6",
